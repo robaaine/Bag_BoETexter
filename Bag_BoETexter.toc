@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: BoETexter
+## Version: 3.4.0
+## Author: Robaine
+## DefaultState: enable
+
+core.lua
