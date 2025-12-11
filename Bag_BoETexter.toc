@@ -5,3 +5,4 @@
 ## DefaultState: enable
 
 core.lua
+config.lua
